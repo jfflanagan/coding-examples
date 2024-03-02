@@ -1,0 +1,1 @@
+print("turtle.goto(0,0)turtle.goto(0,0)")
