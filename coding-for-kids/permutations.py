@@ -65,6 +65,7 @@ def getCombs(results, mySet, stack, i, l, k, n):
 
     return results
 
+#X
 #chars = ['A', 'B', 'C']
 #results = []
 #stack = []
