@@ -1,3 +1,5 @@
+# Comes from the book:
+# The Recursive Book of Recursion: Ace the Coding Interview with Python and JavaScript
 import turtle
 turtle.tracer(10, 0)
 turtle.setworldcoordinates(0,0,700,700)

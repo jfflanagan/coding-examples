@@ -1,4 +1,4 @@
-from johnny_lib import *
+from swing_lib import *
 
 waiting_for_swing = True
 
